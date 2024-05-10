@@ -1,0 +1,2 @@
+# tryingGit-demo
+first repo
